@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.App{
+  padding-left: 2%;
+  padding-right: 1%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  border:1px solid black;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 10%;
+ 
+}
